@@ -23,7 +23,7 @@ const Rating = ({ count, rate }: Props) => {
       </div>
       <a
         href="#"
-        className="text-sm font-medium text-gray-900 underline hover:no-underline"
+        className="text-sm font-medium text-gray-900 underline hover:no-underline dark:text-white"
       >
         {count} reviews
       </a>
